@@ -12,3 +12,6 @@ Clicking the right mouse button will invert the tool as to make it turn black pi
    
    When the image is displayed in the way you want it to appear, choose "File>Export Bitmap Text File". This will make a "Save as" window appear, and will save the bianary array as a .txt file where you choose. You can then copy the contents of that text file and paste them as you need into your C/C++ program. If you need to change an image that you have already made a .txt file for, there is the option to "Import Text File", this will display the image that the .txt file would render. Make changes and choose to export the bitmap image to save the updated file. 
     
+![Untitled-1copy](https://github.com/user-attachments/assets/683a32d6-aa36-49ed-ad6a-722494846340)
+
+![Untitled-1 copy](https://github.com/user-attachments/assets/1e188ca0-6513-4f47-8c8d-eef9a57751b5)
