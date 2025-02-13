@@ -1,4 +1,5 @@
-This is a program that I made to make an image into monochrome bitmap for an OLED display. 
+![Screenshot 2025-02-13 082823](https://github.com/user-attachments/assets/4e9f086d-7e34-4155-829b-3b82ca8c6322)
+This is a program that I made to make an image in to monochrome bitmap for an OLED display. 
 
 The program is meant to be used with a Adafruit_SSD1306 128 x 64 I2C display.
 
